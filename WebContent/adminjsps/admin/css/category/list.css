@@ -1,0 +1,34 @@
+body {
+	background: #000;
+}
+
+table {
+	font-family: 宋体;
+	font-size: 11pt;
+	border-color: #fff;
+	width: 60%;
+}
+
+td {
+	padding: 5px;
+}
+
+.trTitle {
+	background: #fff;
+	color: #000;
+}
+
+.trOneLevel {
+	background-color: #fff;
+	font-weight: 900;
+}
+
+.captionAddOneLevel {
+	line-height: 30px;
+}
+
+.trTwoLevel {
+		background-color: #e0eee0;
+	text-align: right;
+	font-size: 10pt;
+}
