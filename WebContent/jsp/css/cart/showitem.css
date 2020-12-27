@@ -1,0 +1,11 @@
+table {font-size: 10pt;font-family: SimSun;border-color: #8b8989;border-style: solid;border-width: 5px;color: #fff;}
+td {border-color: #000;border-style: solid;border-width: 0;border-bottom-width: 1px;padding: 10px;}
+
+a {text-decoration: none; color: #fff;}
+a:visited {color: #fff;}
+a:hover {color:#fff; text-decoration: underline;}
+.price_n {color: #c30;font-weight: bold;padding-right: 10px;font-family: Arial;}
+.price_t {color: #c30;font-weight: bold;padding-right: 10px;font-family: Arial;font-size: 15pt;}
+a.linkImage {display: inline-block;border: 1px solid #ffffff;}
+a.linkImage:HOVER {display: inline-block;border: 1px solid #d0d0d0;}
+a.link2:active {border: 1px dotted #8b8989;}
